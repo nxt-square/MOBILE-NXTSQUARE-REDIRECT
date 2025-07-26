@@ -2,7 +2,12 @@
   "redirects": [
     {
       "source": "/",                
-      "destination": https://shop.nxtsq.com/pages/nxtmobile-jp",
+      "destination": "https://shop.nxtsq.com/products/nxt-wifi",
+      "permanent": true
+    },
+    {
+      "source": "/surf",            
+      "destination": "https://shop.nxtsq.com/pages/surf-jp",
       "permanent": true
     }
   ]
