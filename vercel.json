@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/",                
+      "destination": https://shop.nxtsq.com/pages/nxtmobile-jp",
+      "permanent": true
+    }
+  ]
+}
