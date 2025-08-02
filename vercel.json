@@ -6,6 +6,11 @@
       "permanent": true
     },
     {
+      "source": "/gti",                
+      "destination": "https://shop.nxtsq.com/pages/nxtmobile-jp?jotform_source=gti",
+      "permanent": true
+    },
+    {
       "source": "/surf",            
       "destination": "https://shop.nxtsq.com/pages/surf-jp",
       "permanent": true
