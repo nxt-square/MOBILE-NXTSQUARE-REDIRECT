@@ -10,6 +10,11 @@
       "destination": "https://shop.nxtsq.com/pages/nxtmobile-jp?jotform_source=gti",
       "permanent": true
     },
+    {
+      "source": "/hnk",                
+      "destination": "https://shop.nxtsq.com/pages/nxtmobile-jp?jotform_source=hnk",
+      "permanent": true
+    },
  {
       "source": "/eto",                
       "destination": "https://shop.nxtsq.com/pages/nxtmobile-jp?jotform_source=eto",
