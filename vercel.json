@@ -24,6 +24,11 @@
       "source": "/surf",            
       "destination": "https://shop.nxtsq.com/pages/surf-jp",
       "permanent": true
+    },
+    {
+      "source": "/biz",                
+      "destination": "https://shop.nxtsq.com/pages/long-term-mobile-form",
+      "permanent": true
     }
   ]
 }
